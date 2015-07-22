@@ -1,0 +1,94 @@
+[Tue Nov 18 07:35:03.495354 2014] [:notice] [pid 1542] mod_bw : Memory Allocated 0 bytes (each conf takes 48 bytes)
+[Tue Nov 18 07:35:03.495365 2014] [:notice] [pid 1542] mod_bw : Version 0.92 - Initialized [0 Confs]
+[Tue Nov 18 07:35:03.502523 2014] [mpm_prefork:notice] [pid 1542] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Tue Nov 18 07:35:03.502535 2014] [core:notice] [pid 1542] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 18 11:09:23.033528 2014] [:error] [pid 5552] [client 127.0.0.1:59253] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/tutorial/entry.php on line 12
+[Tue Nov 18 11:53:44.195193 2014] [:error] [pid 5554] [client 127.0.0.1:59400] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/tutorial/entry.php on line 76
+[Thu Nov 20 09:27:56.381307 2014] [mpm_prefork:notice] [pid 1542] AH00169: caught SIGTERM, shutting down
+[Thu Nov 20 09:28:49.237288 2014] [:notice] [pid 1563] mod_bw : Memory Allocated 0 bytes (each conf takes 48 bytes)
+[Thu Nov 20 09:28:49.313564 2014] [:notice] [pid 1563] mod_bw : Version 0.92 - Initialized [0 Confs]
+[Thu Nov 20 09:28:51.713912 2014] [mpm_prefork:notice] [pid 1563] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Thu Nov 20 09:28:51.713938 2014] [core:notice] [pid 1563] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 20 11:03:36.801454 2014] [:error] [pid 1710] [client 127.0.0.1:39251] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/curd.php on line 126
+[Thu Nov 20 11:04:05.921077 2014] [:error] [pid 3302] [client 127.0.0.1:39253] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/curd.php on line 126
+[Thu Nov 20 11:04:06.784630 2014] [:error] [pid 1707] [client 127.0.0.1:39254] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/curd.php on line 126
+[Thu Nov 20 11:04:33.553094 2014] [:error] [pid 1709] [client 127.0.0.1:39256] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/curd.php on line 127
+[Thu Nov 20 11:04:34.407902 2014] [:error] [pid 1710] [client 127.0.0.1:39257] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/curd.php on line 127
+[Thu Nov 20 11:04:58.112657 2014] [:error] [pid 3302] [client 127.0.0.1:39259] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/curd.php on line 126
+[Thu Nov 20 11:04:58.783900 2014] [:error] [pid 1707] [client 127.0.0.1:39260] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/curd.php on line 126
+[Thu Nov 20 11:04:59.119494 2014] [:error] [pid 1708] [client 127.0.0.1:39261] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/curd.php on line 126
+[Thu Nov 20 11:04:59.309905 2014] [:error] [pid 1709] [client 127.0.0.1:39262] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/curd.php on line 126
+[Thu Nov 20 11:05:04.748864 2014] [:error] [pid 1710] [client 127.0.0.1:39263] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/curd.php on line 126
+[Thu Nov 20 11:06:08.728047 2014] [:error] [pid 3302] [client 127.0.0.1:39270] PHP Notice:  Undefined variable: db_hostname in /var/www/html/tutorial/curd.php on line 29
+[Thu Nov 20 11:06:08.728091 2014] [:error] [pid 3302] [client 127.0.0.1:39270] PHP Notice:  Undefined variable: db_username in /var/www/html/tutorial/curd.php on line 29
+[Thu Nov 20 11:06:08.728099 2014] [:error] [pid 3302] [client 127.0.0.1:39270] PHP Notice:  Undefined variable: db_password in /var/www/html/tutorial/curd.php on line 29
+[Thu Nov 20 11:06:08.728551 2014] [:error] [pid 3302] [client 127.0.0.1:39270] PHP Notice:  Undefined variable: db_database in /var/www/html/tutorial/curd.php on line 32
+[Thu Nov 20 11:07:04.566687 2014] [:error] [pid 3302] [client 127.0.0.1:39277] PHP Parse error:  syntax error, unexpected '/' in /var/www/html/tutorial/create.php on line 37, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:08:02.970956 2014] [:error] [pid 1709] [client 127.0.0.1:39285] PHP Parse error:  syntax error, unexpected '/' in /var/www/html/tutorial/create.php on line 37, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:09:00.740630 2014] [:error] [pid 1710] [client 127.0.0.1:39286] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/create.php on line 39, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:10:45.229388 2014] [:error] [pid 1708] [client 127.0.0.1:39301] PHP Parse error:  syntax error, unexpected '<' in /var/www/html/tutorial/create.php on line 39, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:13:40.726371 2014] [:error] [pid 1709] [client 127.0.0.1:39307] PHP Fatal error:  Call to undefined function connect_db() in /var/www/html/tutorial/curd.php on line 34
+[Thu Nov 20 11:13:50.965050 2014] [:error] [pid 1711] [client 127.0.0.1:39309] PHP Fatal error:  Call to undefined function connect_db() in /var/www/html/tutorial/curd.php on line 34
+[Thu Nov 20 11:15:18.423619 2014] [:error] [pid 1707] [client 127.0.0.1:39312] PHP Fatal error:  Call to undefined function open_db() in /var/www/html/tutorial/curd.php on line 34
+[Thu Nov 20 11:15:19.235871 2014] [:error] [pid 1708] [client 127.0.0.1:39313] PHP Fatal error:  Call to undefined function open_db() in /var/www/html/tutorial/curd.php on line 34
+[Thu Nov 20 11:15:19.611959 2014] [:error] [pid 1709] [client 127.0.0.1:39314] PHP Fatal error:  Call to undefined function open_db() in /var/www/html/tutorial/curd.php on line 34
+[Thu Nov 20 11:15:19.785971 2014] [:error] [pid 1710] [client 127.0.0.1:39315] PHP Fatal error:  Call to undefined function open_db() in /var/www/html/tutorial/curd.php on line 34
+[Thu Nov 20 11:21:27.250719 2014] [:error] [pid 1708] [client 127.0.0.1:39333] PHP Fatal error:  Call to undefined function open_db() in /var/www/html/tutorial/curd.php on line 46
+[Thu Nov 20 11:38:13.581682 2014] [:error] [pid 1708] [client 127.0.0.1:39382] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/tutorial/curd.php on line 90
+[Thu Nov 20 11:38:14.890915 2014] [:error] [pid 1709] [client 127.0.0.1:39383] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/tutorial/curd.php on line 90
+[Thu Nov 20 11:39:17.570525 2014] [:error] [pid 1711] [client 127.0.0.1:39385] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/tutorial/curd.php on line 90
+[Thu Nov 20 11:39:18.170138 2014] [:error] [pid 3302] [client 127.0.0.1:39386] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/tutorial/curd.php on line 90
+[Thu Nov 20 11:43:16.241951 2014] [:error] [pid 1710] [client 127.0.0.1:39416] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /var/www/html/tutorial/create.php on line 5, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:45:22.051941 2014] [:error] [pid 1708] [client 127.0.0.1:39425] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /var/www/html/tutorial/create.php on line 5, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:50:10.526021 2014] [:error] [pid 1709] [client 127.0.0.1:39434] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /var/www/html/tutorial/create.php on line 5, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:50:28.469643 2014] [:error] [pid 1710] [client 127.0.0.1:39435] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /var/www/html/tutorial/create.php on line 5, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:51:04.404937 2014] [:error] [pid 3302] [client 127.0.0.1:39438] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /var/www/html/tutorial/create.php on line 26, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:53:07.004588 2014] [:error] [pid 1710] [client 127.0.0.1:39442] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /var/www/html/tutorial/create.php on line 26, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:54:44.162917 2014] [:error] [pid 3302] [client 127.0.0.1:39445] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /var/www/html/tutorial/create.php on line 6, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:56:35.481649 2014] [:error] [pid 1709] [client 127.0.0.1:39447] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /var/www/html/tutorial/create.php on line 9, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:58:26.705663 2014] [:error] [pid 1710] [client 127.0.0.1:39450] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /var/www/html/tutorial/create.php on line 31, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:59:03.427296 2014] [:error] [pid 1707] [client 127.0.0.1:39452] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /var/www/html/tutorial/create.php on line 31, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:59:06.473575 2014] [:error] [pid 3302] [client 127.0.0.1:39453] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /var/www/html/tutorial/create.php on line 31, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:59:19.288154 2014] [:error] [pid 1709] [client 127.0.0.1:39454] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /var/www/html/tutorial/create.php on line 31, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:59:34.663821 2014] [:error] [pid 1710] [client 127.0.0.1:39456] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/tutorial/create.php on line 33, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 11:59:40.238707 2014] [:error] [pid 1711] [client 127.0.0.1:39457] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/tutorial/create.php on line 33, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 12:00:34.687838 2014] [:error] [pid 3302] [client 127.0.0.1:39459] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/tutorial/create.php on line 33, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 12:00:37.601289 2014] [:error] [pid 1709] [client 127.0.0.1:39460] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/tutorial/create.php on line 33, referer: http://localhost/tutorial/add.php
+[Thu Nov 20 13:08:19.467525 2014] [:error] [pid 1710] [client 127.0.0.1:39530] PHP Notice:  Undefined index: name in /var/www/html/tutorial/delete.php on line 10, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:15:18.248802 2014] [:error] [pid 1710] [client 127.0.0.1:39538] PHP Parse error:  syntax error, unexpected ';' in /var/www/html/tutorial/delete.php on line 16, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:18:15.156190 2014] [:error] [pid 1708] [client 127.0.0.1:39555] PHP Notice:  Undefined offset: 20 in /var/www/html/tutorial/delete.php on line 10
+[Thu Nov 20 13:18:19.227237 2014] [:error] [pid 1708] [client 127.0.0.1:39555] PHP Notice:  Undefined offset: 20 in /var/www/html/tutorial/delete.php on line 10, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:18:20.008493 2014] [:error] [pid 1708] [client 127.0.0.1:39555] PHP Notice:  Undefined offset: 20 in /var/www/html/tutorial/delete.php on line 10, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:18:32.792552 2014] [:error] [pid 1707] [client 127.0.0.1:39561] PHP Notice:  Undefined offset: 20 in /var/www/html/tutorial/delete.php on line 10, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:19:30.992412 2014] [:error] [pid 3302] [client 127.0.0.1:39563] PHP Notice:  Undefined offset: 20 in /var/www/html/tutorial/delete.php on line 10, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:19:33.159653 2014] [:error] [pid 3302] [client 127.0.0.1:39563] PHP Notice:  Undefined offset: 20 in /var/www/html/tutorial/delete.php on line 10, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:21:14.463405 2014] [:error] [pid 1710] [client 127.0.0.1:39565] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/tutorial/delete.php on line 29, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:21:27.690115 2014] [:error] [pid 1708] [client 127.0.0.1:39566] PHP Notice:  Undefined offset: 20 in /var/www/html/tutorial/delete.php on line 10, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:21:32.519609 2014] [:error] [pid 1708] [client 127.0.0.1:39566] PHP Notice:  Undefined offset: 20 in /var/www/html/tutorial/delete.php on line 10, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:21:49.447852 2014] [:error] [pid 1711] [client 127.0.0.1:39569] PHP Notice:  Undefined offset: 20 in /var/www/html/tutorial/delete.php on line 10, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:22:12.433788 2014] [:error] [pid 3302] [client 127.0.0.1:39570] PHP Notice:  Undefined offset: 20 in /var/www/html/tutorial/delete.php on line 10, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:54:55.762050 2014] [:error] [pid 1710] [client 127.0.0.1:39841] PHP Notice:  Undefined index: id in /var/www/html/tutorial/edit.php on line 26, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:56:11.441167 2014] [:error] [pid 1707] [client 127.0.0.1:39843] PHP Notice:  Undefined index: id in /var/www/html/tutorial/edit.php on line 26, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:57:17.600567 2014] [:error] [pid 1710] [client 127.0.0.1:39848] PHP Notice:  Undefined variable: row in /var/www/html/tutorial/edit.php on line 36, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:57:17.600593 2014] [:error] [pid 1710] [client 127.0.0.1:39848] PHP Notice:  Undefined variable: row in /var/www/html/tutorial/edit.php on line 37, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:57:17.600597 2014] [:error] [pid 1710] [client 127.0.0.1:39848] PHP Notice:  Undefined variable: row in /var/www/html/tutorial/edit.php on line 38, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:57:17.600600 2014] [:error] [pid 1710] [client 127.0.0.1:39848] PHP Notice:  Undefined variable: row in /var/www/html/tutorial/edit.php on line 39, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:57:17.600603 2014] [:error] [pid 1710] [client 127.0.0.1:39848] PHP Notice:  Undefined variable: row in /var/www/html/tutorial/edit.php on line 40, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:58:23.663733 2014] [:error] [pid 1707] [client 127.0.0.1:39928] PHP Notice:  Undefined variable: row in /var/www/html/tutorial/edit.php on line 37, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:58:23.663757 2014] [:error] [pid 1707] [client 127.0.0.1:39928] PHP Notice:  Undefined variable: row in /var/www/html/tutorial/edit.php on line 38, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:58:23.663762 2014] [:error] [pid 1707] [client 127.0.0.1:39928] PHP Notice:  Undefined variable: row in /var/www/html/tutorial/edit.php on line 39, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 13:58:23.663766 2014] [:error] [pid 1707] [client 127.0.0.1:39928] PHP Notice:  Undefined variable: row in /var/www/html/tutorial/edit.php on line 40, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 14:00:52.447321 2014] [:error] [pid 1710] [client 127.0.0.1:39932] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /var/www/html/tutorial/edit.php on line 33, referer: http://localhost/tutorial/curd.php
+[Thu Nov 20 15:55:11.275017 2014] [mpm_prefork:notice] [pid 1563] AH00169: caught SIGTERM, shutting down
+[Fri Nov 21 08:02:25.483170 2014] [:notice] [pid 1584] mod_bw : Memory Allocated 0 bytes (each conf takes 48 bytes)
+[Fri Nov 21 08:02:25.494865 2014] [:notice] [pid 1584] mod_bw : Version 0.92 - Initialized [0 Confs]
+[Fri Nov 21 08:02:26.215856 2014] [mpm_prefork:notice] [pid 1584] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Fri Nov 21 08:02:26.215895 2014] [core:notice] [pid 1584] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 21 08:32:38.584290 2014] [:error] [pid 1685] [client 127.0.0.1:35418] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'cshaw'@'localhost' (using password: YES) in /var/www/html/tutorial/shaw/main.php on line 29
+[Fri Nov 21 18:22:51.782660 2014] [mpm_prefork:notice] [pid 1584] AH00169: caught SIGTERM, shutting down
+[Mon Nov 24 08:22:01.993643 2014] [:notice] [pid 1662] mod_bw : Memory Allocated 0 bytes (each conf takes 48 bytes)
+[Mon Nov 24 08:22:02.072236 2014] [:notice] [pid 1662] mod_bw : Version 0.92 - Initialized [0 Confs]
+[Mon Nov 24 08:22:04.217825 2014] [mpm_prefork:notice] [pid 1662] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Mon Nov 24 08:22:04.217856 2014] [core:notice] [pid 1662] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 24 08:26:58.031104 2014] [mpm_prefork:notice] [pid 1662] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
