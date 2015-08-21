@@ -1,0 +1,2 @@
+#./pattern/myuri
+MYURI %{URIPROTO:proto}://(?:%{USER:user}(?::[^@]*)?@)?(?:%{URIHOST:myhost})?(?:%{URIPATHPARAM:params})?
